@@ -1,0 +1,11 @@
+.DS_Store
+
+build/
+*.mode1v3
+*.pbxuser
+
+*.psd
+*.pxm
+* Kopie*
+
+dsa_priv.pem
